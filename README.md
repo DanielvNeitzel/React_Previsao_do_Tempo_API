@@ -8,7 +8,7 @@ Para fazer o projeto funcionar da forma correta, deverá realizar os seguintes p
 Baixe o projeto na sua maquina e instale as dependencias com o <b> npm i ou npm install </b>
 <br>
 <br>
-Depois de realizar todas as instalações, poderá rodar esses dois comandos pra iniciar os servidores do FRONT que irá processar o a pesquisa da cidade e retorno dos dados da API.
+Depois de realizar todas as instalações, poderá rodar esses dois comandos pra iniciar os motores do FRONT que irá processar e a pesquisa da cidade e retorno dos dados da API.
 <br>
 <br>
 Utilize esse comando para iniciar o FRONT na <b>porta 3000</b> e endereço <b>http://localhost:3000</b> : npm start
