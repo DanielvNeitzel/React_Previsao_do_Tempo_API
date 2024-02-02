@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_Previsao_do_Tempo_API/static/css/main.dafd6504.css",
+    "main.js": "/React_Previsao_do_Tempo_API/static/js/main.3f50ef21.js",
+    "static/js/533.00635b1c.chunk.js": "/React_Previsao_do_Tempo_API/static/js/533.00635b1c.chunk.js",
+    "index.html": "/React_Previsao_do_Tempo_API/index.html",
+    "main.dafd6504.css.map": "/React_Previsao_do_Tempo_API/static/css/main.dafd6504.css.map",
+    "main.3f50ef21.js.map": "/React_Previsao_do_Tempo_API/static/js/main.3f50ef21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafd6504.css",
+    "static/js/main.3f50ef21.js"
+  ]
+}
